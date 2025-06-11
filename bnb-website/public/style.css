@@ -1,0 +1,45 @@
+h2 {
+    font-family: "sans-serif";
+}
+
+#carouselExampleCaptions {
+    max-width: 100%;
+    height: 50%;
+    margin: auto;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+img.carousel-brand {
+    width: 20%;
+    height: 20%;
+}
+
+a#navbarDropdown {
+    text-decoration: none;
+}
+
+a:hover.nav-link.fw-bold {
+    color: rgba(66, 192, 251, 1);
+}
+
+footer {
+    padding: 0 !important;
+    margin: 0 !important;
+    background-color: rgba(52, 52, 52, 1) !important;
+    width: 100%;
+}
+
+h5.footer-kop,
+a.nav-link.p-0.text-body-secondary,
+p.text-body-secondary {
+    color: white !important;
+}
+
+h6.card-subtitle.mb-2.text-body-secondary {
+    color: gold !important;
+}
